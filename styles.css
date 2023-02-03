@@ -1,0 +1,32 @@
+.background {
+    background-color: #5b91a3;
+}
+
+h1, h2 {
+   text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+#RPI-heat{
+    padding-left: 100px;
+    padding-right: 20px;
+}
+
+#Bend{
+    padding-left: 20px;
+}
+
+#RPI-dollarhide{
+    padding-right: 20px;
+}
+
+#RPI-start{
+    padding-left: 355px;
+}
+
+#contact{
+    text-align: left;
+}
